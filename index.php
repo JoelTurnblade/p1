@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
   <head>
+    <title>CSCI E15 Project 1</title>
     <link rel="stylesheet" href="/style/style.css">
   </head>
   <body>
